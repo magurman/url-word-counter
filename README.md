@@ -17,11 +17,6 @@ Run the program by executing the command: java -jar url-word-counter.jar urls.tx
 Open Source Libraries Used:
 	jsoup for parsing the urls
 
-References:
-	https://www.w3schools.com/java/java_files_read.asp -- to read in files 
-	https://www.geeksforgeeks.org/removing-punctuations-given-string/ -- regex for parsing string
-	https://www.geeksforgeeks.org/overriding-equals-method-in-java/ -- for comparing two Words
-
 Assumptions:
 	urls.txt and words.txt are delimited by \n
 	counting is case insensitive
