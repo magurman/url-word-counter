@@ -11,7 +11,7 @@ I defined three custom objects: Word, URLValidator, WordCounter
 the program parses the urls and words, creates the word counter object for each url, and counts each word for each url.
 
 
-Run the program by unzipping the NokNok.zip file, navigating inside of it and running the command: java -jar NokNok.jar urls.txt words.txt
+Run the program by executing the command: java -jar url-word-counter.jar urls.txt words.txt
 
 
 Open Source Libraries Used:
